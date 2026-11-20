@@ -1,0 +1,8 @@
+{
+  "name": "جدولك — محول صور الجداول إلى Excel",
+  "description": "أداة ذكاء اصطناعي متقدمة لتحويل صور ولقطات شاشة الجداول العربية والإنجليزية إلى جداول Excel قابلة للتعديل والتصدير بدقة عالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
